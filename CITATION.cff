@@ -1,0 +1,18 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Dunn
+    given-names: Laurie
+    orcid: https://orcid.org/0000-0001-7063-5982 
+  - family-names: Marilleau
+    given-names: Nicolas
+    orcid: https://orcid.org/0000-0002-1004-4352
+ - family-names: Lang
+    given-names: Christophe
+    orcid: https://orcid.org/0000-0001-7044-7156
+ - family-names: Chemidlin Prévost-Bouré
+    given-names: Nicolas
+    orcid: https://orcid.org/0000-0002-8575-4295
+title: MAS2MIC v1.0.0
+version: v1.0.0
+date-released: 2023-09-29
